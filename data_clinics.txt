@@ -1,0 +1,22 @@
+Clinics SFT
+Clinics SFT es el software que permite llevar a cabo la gestión integral de su clínica, ya que integra en un único programa todos los apartados de la gestión clínica (historias médicas, agendas, gestoría, facturación, imágenes, etc.). Para facilitar esta gestión Clinics se divide en ocho menús distintos.
+Hay tres pilares básicos del proyecto Clinics que hacen que se diferencie de su competencia, son: Seguridad, Proximidad y Sencillez.
+Al abrir el software vemos que en la parte superior hay un menú de 8 botones  en este orden: PARA HOY, consulta, agenda, nuevo paciente, historias, gestoría, listados, configuración.
+Menú:
+¿Para hoy?
+El cuadro resumen para conocer el estado diario de la clínica: médicos disponibles y visitas planificadas para el día seleccionado. Es la herramienta ideal para utilizar en la recepción de la clínica y saber a primera vista la carga de trabajo diaria.
+Consulta
+Se trata del cuadro resumen específico para cada doctor. Desde dentro de la consulta cada doctor puede ver el estado de sus visitas: las pendientes, las que están en la sala de espera y las realizadas, de modo que en todo momento podemos ver el estado real de las visitas para el día seleccionado.
+Agenda
+La agenda de la clínica permite gestionar y planificar las visitas de los pacientes. Dispone de herramientas tan diversas como: vista diaria, vista semanal, grupos de agendas, buscador de visitas, envío de SMS, bloqueo de agendas, etc. También nos permite personalizar los tramos horarios, bloqueos o franjas horarias de cada agenda.
+Nuevo paciente
+Para añadir un nuevo paciente de forma rápida y ágil. Al dar de alta un nuevo paciente solo hace falta introducir los datos básicos: nombre y apellidos, fecha de nacimiento, mutua y referidor si oportuno, etc. Al dar de alta un nuevo paciente se controla que no exista previamente en la base de datos.
+Historias
+Se trata del apartado correspondiente al historial médico de cada paciente. Podemos seleccionar al paciente por número de historia o por apellidos facilitando así el trabajo de la búsqueda de pacientes. La historia incluye todos los apartados relativos a la historia médica del paciente tales como: entradas médicas, datos de filiación, presupuestos, editor de cartas, facturación, imágenes, planning, etc.
+Gestoría
+Gracias a este apartado podemos llevar a cabo cómodamente todo el trabajo propio de una gestoría. Tanto si tenemos un gestor externo en la clínica como si nosotros mismos desarrollamos las gestiones de contabilidad y facturación, ahora todos estos procesos serán mucho más fáciles y automatizados.
+Listados
+Es el menú mediante el cual podemos extraer todo tipo de información relativa a la clínica: listados de pacientes, historias, impagados, agendas del día y listados de próximas visitas entre otros. Esta herramienta facilita el trabajo administrativo de la clínica ya que permite automatizar procesos como el envío de cartas, el envío de SMS o los regates pendientes.
+Configuración
+Centraliza toda la configuración de Clinics sft. Todos y cada uno de los menús del programa son configurables desde ese menú. También desde este apartado podremos modificar sin necesidad de esperar en el servicio técnico los precios de los tratamientos, los horarios de las agendas, los datos de los proveedores, etc.
+Dispone de dos versiones. Una sencilla para realizar los cambios más rutinarios: dar de alta a un nuevo trabajador, gestionar los tratamientos de la clínica, modificar agendas, etc. La versión avanzada del panel de control permite configurar opciones más precisas del programa. Sin embargo no es necesario que se preocupe porque siempre dispone del equipo de ayuda de Clinics sft para asesorarle en cualquier momento.
